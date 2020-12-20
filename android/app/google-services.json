@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "63672661137",
+    "project_id": "bytelus-track",
+    "storage_bucket": "bytelus-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63672661137:android:11a9e4918f93179a91fb30",
+        "android_client_info": {
+          "package_name": "com.example.bytelus_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63672661137-g7196auo6eva6plf01fpmqb184adhm2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9N35WXK_JO_tu_EWw3nfgmM2Q6-VElA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63672661137-g7196auo6eva6plf01fpmqb184adhm2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63672661137-itb4mtv44ti4p27fusj0listq82e9p05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bytelusTrack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
